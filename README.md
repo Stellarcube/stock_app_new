@@ -47,7 +47,7 @@ An interactive web app built with Streamlit to visualize historical stock data (
 ### 🚀 Deployment
 
 The app is deployed on Streamlit and can be accessed here:  
-**[Stock Analytics App](https://stock-app-analytics.streamlit.app/)**
+**[Stock Analytics App](https://newstockanalytics.streamlit.app/)**
 
 
 
