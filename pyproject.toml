@@ -1,13 +1,17 @@
 [project]
 name = "stock-app"
 version = "0.1.0"
-description = "Add your description here"
+description = "Stock Analytics Web App"
 readme = "README.md"
 authors = [
     { name = "Stellarcube", email = "sudhirkumar241999@gmail.com" }
 ]
 requires-python = ">=3.11"
-dependencies = []
+dependencies = [
+    "plotly>=7.0.0",
+    "streamlit>=1.63.0",
+    "yfinance>=1.7.0",
+]
 
 [project.scripts]
 stock-app = "stock_app:main"

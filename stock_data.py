@@ -1,7 +1,7 @@
 #  Handles getting stock data from yFinance.
 import yfinance as yf
 import streamlit as st
-from config import duration_dict, interval_dict, stock_dict
+from config import duration_dict, interval_dict
 
 def get_stock_data(tickersymbol, duration, interval):
     """

@@ -2,7 +2,7 @@
 import streamlit as st
 import plotly.express as px
 from validation import valid_interval
-from stock_data import get_stock_data, tickerDf
+from stock_data import get_stock_data
 from config import duration_dict, stock_dict, time_period_duration, time_period_interval
 
 
