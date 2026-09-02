@@ -1,1 +1,1 @@
-# stock_app_new
+## Stock Analytics Web App
